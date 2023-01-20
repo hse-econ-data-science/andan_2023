@@ -3,9 +3,8 @@
 
 ## Полезные ссылки
 
-- Wiki-страница курса - ??? 
-- Таблица с вашими оценками: появится тут позже
-- Youtube-каналы с записями семинаров: появятся тут позже 
+- [Таблица с вашими оценками](https://docs.google.com/spreadsheets/d/1chu9ANEewsm-wZiNVHwrsbN0qNSKIHh5ejXfqiRMxaw/edit?usp=sharing)
+- Youtube-каналы с записями семинаров: [канал Филиппа](https://www.youtube.com/watch?v=6PVAmajrghM&list=PLNKXA-74YGLhJIw9hp8_YroThDOLaX0oN)
 - Материалы для каждого семинара лежат в папках `/sem*`
 - Если вы хотите скачать из репозитория конкретную папку, просто вставьте ссылку на неё [в сервис для скачки.](https://minhaskamal.github.io/DownGit/#/home)
 - Любые вопросы можно задавать в общий чат. Там можно найти поддержку и пофлудить. [![TG1](https://img.shields.io/badge/Telegram-chat-blue)](https://t.me/+_2BivfQyHHYxMzJi) 
