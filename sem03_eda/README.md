@@ -5,7 +5,7 @@
 - необязательные задачи в виде тестика с акциями **[ru]**
 
 
-__Что посмотреть про таблицы?__
+### Что посмотреть про таблицы?
 
 - [Видеолекция про pandas](https://www.youtube.com/watch?v=OAy96yiWohk&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl&index=1) от ODS и её [конспект на хабре](https://habr.com/ru/company/ods/blog/322626/) **[ru]**
 - [Видеолекция про визуализацию](https://www.youtube.com/watch?v=uwQat1TV0JM&list=PLVlY_7IJCMJdgcCtQfzj5j8OVB_Y0GJCl&index=2) от ODS и её [конспект на хабре](https://habr.com/ru/company/ods/blog/323210/) **[ru]**
@@ -14,18 +14,17 @@ __Что посмотреть про таблицы?__
 - [Pandas cheet shit](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) **[en]**
 - [Интерактивное введение в pandas от Datacamp (надо в него залогиниться)](https://www.datacamp.com/tutorial/pandas-tutorial-dataframe-python) **[en]**
 - [Туториалы по визуализации в pandas](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html) **[en]**
-- [Галерея графиков от seaborn](http://seaborn.pydata.org/examples/index.html) **[en]
+- [Галерея графиков от seaborn](http://seaborn.pydata.org/examples/index.html) **[en]**
 
 
-__Если вас ещё не тошнит от фила:__
+### Если вас ещё не тошнит от фила:
 
 - Введение в pandas c курсеры от фила: [видос 1](https://www.youtube.com/watch?v=eZzhSZf3gSI&list=PLCf-cQCe1FRxW2QMJbWBl4SSkVAPhId_e&index=13) [видос 2](https://www.youtube.com/watch?v=xNU4m3K9Cr0&list=PLCf-cQCe1FRxW2QMJbWBl4SSkVAPhId_e&index=14) [видос 3](https://www.youtube.com/watch?v=drApVIF4G6c&list=PLCf-cQCe1FRxW2QMJbWBl4SSkVAPhId_e&index=15) [видос 4](https://www.youtube.com/watch?v=w_miR0t0-3w&list=PLCf-cQCe1FRxW2QMJbWBl4SSkVAPhId_e&index=16) [видос 5](https://www.youtube.com/watch?v=HTpNKYvOHc8&list=PLCf-cQCe1FRy1tXQaAQZ1evmt3eDVrDQy&index=5) **[ru]**
 - [EDA в пандасе с курсеры от Фила](https://www.youtube.com/watch?v=PymcXqchbKc&list=PLCf-cQCe1FRyF7aY4CC0SGTIoP-52Dvck) **[ru]**
 - Тетрадки к видосам выше [можно найти тут](https://github.com/FUlyankin/matstat-AB) **[ru]**
 
 
-
-__Как визуализировать данные и заставить всех тебя ненавидеть:__
+### Как визуализировать данные и заставить всех тебя ненавидеть
 
 1. Заголовок графика для слабаков. По графику всегда понятно, какие данные и явления он описывает.
 2. Ни в коем случае не подписывай ни одной оси у графика. Пусть смотрящий развивает свою интуицую! 
