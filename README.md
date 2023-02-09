@@ -21,7 +21,15 @@
 
 ## Домашние задания и контрольные
 
-Тут будут ссылки на дз/кр/примеры мини-самостоялок
+**Домашки:** 
+
+- ДЗ-1: [генерации случайных величин и numpy](https://nbviewer.org/github/hse-econ-data-science/andan_2023/blob/main/hw/hw01-hakuna_matata.ipynb)
+
+
+**Мини-самостоялки:**
+
+- МСР-1: [вариант-1](https://docs.google.com/forms/d/e/1FAIpQLSeJv1OaW0apfPrUUZ60uR-4FcaUHcpsQmyzD6VYa1h8sSw3RA/viewform?usp=sf_link) [вариант-2](https://docs.google.com/forms/d/e/1FAIpQLSd3ycy3Xw9xwB3IoGV1Px3QsZcOBSlMQtWUkfFeNPx1gimI3Q/viewform?usp=sf_link)
+
 
 
 ## Большой план маленьких побед
@@ -30,7 +38,7 @@
 - [__sem01__](./sem01_intro) Вспоминаем питон на задачах про симуляции! Говорим про распределения. Вводимся в scipy и matplotlib.
 - [__sem02__](./sem02_numpy) Вводимся в numpy 
 - [__sem03__](./sem03_eda) Вводимся в pandas и визуализацию
-- [__sem04__]() Метод моментов, ЦПТ, доверительные интервалы.
+- [__sem04__](./sem04_CLT&LLN) Метод моментов, ЦПТ, доверительные интервалы.
 - [__sem05__]() Больше EDA и разной визуализации!
 - [__sem06__]() Метод максимального правдоподобия. Оцениваем параметры простых распределений. Оптимизация в scipy.
 - [__sem07__]() Метод максимального правдоподобия и базовое машинное обучение. Вводим основные понятия ML. Говорим про KNN.  
