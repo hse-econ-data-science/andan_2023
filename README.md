@@ -30,6 +30,7 @@
 
 - МСР-1: [вариант-1](https://docs.google.com/forms/d/e/1FAIpQLSeJv1OaW0apfPrUUZ60uR-4FcaUHcpsQmyzD6VYa1h8sSw3RA/viewform?usp=sf_link) [вариант-2](https://docs.google.com/forms/d/e/1FAIpQLSd3ycy3Xw9xwB3IoGV1Px3QsZcOBSlMQtWUkfFeNPx1gimI3Q/viewform?usp=sf_link)
 - МСР-2: [вариант-1](https://docs.google.com/forms/d/e/1FAIpQLSc_93B3KvS6EAIB0fgjlgReYG7Mhg_8BJ9av3qnI1ARqduQiw/viewform?usp=sf_link) [вариант-2](https://docs.google.com/forms/d/e/1FAIpQLSdnJqzXdV1ClBsfrNOqihWKmZICPawtz_c8QaluzUCf--j-EA/viewform?usp=sf_link)
+- МСР-3: [вариант-1](https://docs.google.com/forms/d/e/1FAIpQLSeNnPq1Czp749xYpuWnwcZkDoHqCDmX81Fq7knYmimiQ_aPXw/viewform?usp=sf_link) [вариант-2](https://docs.google.com/forms/d/e/1FAIpQLSfkWWI3Kdk0BJs5wnUlkfbS_NnGr-P7etLlY0ASoppefUVGqw/viewform?usp=sf_link) если есть желание, можно порешать [тесты из мидтёрмов и экзаменов по МО](https://github.com/Vasyka/intro-ml-bi/tree/main/exams)
 
 
 
