@@ -32,6 +32,7 @@
 - МСР-2: [вариант-1](https://docs.google.com/forms/d/e/1FAIpQLSc_93B3KvS6EAIB0fgjlgReYG7Mhg_8BJ9av3qnI1ARqduQiw/viewform?usp=sf_link) [вариант-2](https://docs.google.com/forms/d/e/1FAIpQLSdnJqzXdV1ClBsfrNOqihWKmZICPawtz_c8QaluzUCf--j-EA/viewform?usp=sf_link)
 - МСР-3: [вариант-1](https://docs.google.com/forms/d/e/1FAIpQLSeNnPq1Czp749xYpuWnwcZkDoHqCDmX81Fq7knYmimiQ_aPXw/viewform?usp=sf_link) [вариант-2](https://docs.google.com/forms/d/e/1FAIpQLSfkWWI3Kdk0BJs5wnUlkfbS_NnGr-P7etLlY0ASoppefUVGqw/viewform?usp=sf_link) 
 - Если есть желание, можно порешать [тесты из мидтёрмов и экзаменов по МО](https://github.com/Vasyka/intro-ml-bi/tree/main/exams)
+- МСР-4: [вариант-1](https://docs.google.com/forms/d/e/1FAIpQLSeFHEUBLVnCkmNPy4-4kBOs1D5ImAvmX4RJABhu8P8zjSdlBg/viewform?usp=sf_link) [вариант-2](https://docs.google.com/forms/d/e/1FAIpQLSfAmEOPY9iwyiUdPF85DONiola0ErGN4wFxK51bkw983b5D0A/viewform?usp=sf_link)
 
 
 
@@ -50,9 +51,9 @@
 - [__sem10__](./sem10_clf_metr) Метрики классификации. Roc-auc.
 - [__sem11__](./sem11_ab) АБ-тестирование, гипотезы, критерии.
 - [__sem12__](./sem12_more_ab) Больше гипотез и критериев! Непараметрические тесты.
-- [__sem13__]() Семинар про бустрап.
-- [__sem14__]() Метод максимального правдоподобия.
-- [__sem15__]() Резервный семинар на всякий случай. 
+- [__sem13__](./sem13_bootstrap) Семинар про бустрап.
+- [__sem14__](./sem14_maxlik) Метод максимального правдоподобия.
+- [__sem15__](./sem15_fun) Резервный семинар на всякий случай. 
 
 
 ## Самый важный раздел
