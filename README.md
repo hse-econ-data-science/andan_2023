@@ -25,6 +25,7 @@
 
 - ДЗ-1: [генерации случайных величин и numpy](https://nbviewer.org/github/hse-econ-data-science/andan_2023/blob/main/hw/hw01-hakuna_matata.ipynb)
 - ДЗ-2: [EDA в pandas: анализируем чеки и ищем VaR](https://nbviewer.org/github/hse-econ-data-science/andan_2023/blob/main/hw/hw02-we_bare_bears.ipynb)
+- ДЗ-3: [Определяем пол клиента по транзакциям](https://nbviewer.org/github/hse-econ-data-science/andan_2023/blob/main/hw/hw03-logreg_must_suffer.ipynb)
 
 **Мини-самостоялки:**
 
