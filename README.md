@@ -26,6 +26,7 @@
 - ДЗ-1: [генерации случайных величин и numpy](https://nbviewer.org/github/hse-econ-data-science/andan_2023/blob/main/hw/hw01-hakuna_matata.ipynb)
 - ДЗ-2: [EDA в pandas: анализируем чеки и ищем VaR](https://nbviewer.org/github/hse-econ-data-science/andan_2023/blob/main/hw/hw02-we_bare_bears.ipynb)
 - ДЗ-3: [Определяем пол клиента по транзакциям](https://nbviewer.org/github/hse-econ-data-science/andan_2023/blob/main/hw/hw03-logreg_must_suffer.ipynb)
+- ДЗ-4: [АБ-тестирование](https://nbviewer.org/github/hse-econ-data-science/andan_2023/blob/main/hw/hw04/hw04-red_or_blue.ipynb)
 
 **Мини-самостоялки:**
 
@@ -34,7 +35,6 @@
 - МСР-3: [вариант-1](https://docs.google.com/forms/d/e/1FAIpQLSeNnPq1Czp749xYpuWnwcZkDoHqCDmX81Fq7knYmimiQ_aPXw/viewform?usp=sf_link) [вариант-2](https://docs.google.com/forms/d/e/1FAIpQLSfkWWI3Kdk0BJs5wnUlkfbS_NnGr-P7etLlY0ASoppefUVGqw/viewform?usp=sf_link) 
 - Если есть желание, можно порешать [тесты из мидтёрмов и экзаменов по МО](https://github.com/Vasyka/intro-ml-bi/tree/main/exams)
 - МСР-4: [вариант-1](https://docs.google.com/forms/d/e/1FAIpQLSeFHEUBLVnCkmNPy4-4kBOs1D5ImAvmX4RJABhu8P8zjSdlBg/viewform?usp=sf_link) [вариант-2](https://docs.google.com/forms/d/e/1FAIpQLSfAmEOPY9iwyiUdPF85DONiola0ErGN4wFxK51bkw983b5D0A/viewform?usp=sf_link)
-
 
 
 ## Большой план маленьких побед
